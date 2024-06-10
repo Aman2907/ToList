@@ -1,32 +1,11 @@
-Project Structure
 
-ToList/
-├── node_modules/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── App.css
-│   │   ├── App.jsx
-│   │   ├── index.css
-│   │   ├── main.jsx
-├── App.html
-├── package.json
-├── package-lock.json
-├── README.md
-├── index.js
-├── package.json
-├── README.md
+Summary of my Approach for this Task:
 
-
-
-Summary of  my Approach for this Task:
 **Objective**:
 Create a functional To-Do List application that allows users to perform Create, Read, Update, and Delete (CRUD) operations.
 install:
 1) npm create vite@latest
 2)npm install axios
-
-
 
 
 
